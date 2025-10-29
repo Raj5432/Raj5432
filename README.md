@@ -1,54 +1,69 @@
-# Hello people 👋, I'm Raju Yamala  
+[![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkqpsc0jw76iaxr1vumb.png)](https://github.com/Raj5432)
+<h1 align="center">Hello people 👋, I'm Raju Yamala</h1>
+<h3 align="center">💻 Passionate Software Developer & Data Enthusiast | Skilled in Python, JavaScript, React.js, Node.js, and Data Analysis 🚀  
+I focus on building clean, scalable, and efficient applications that turn complex data into meaningful insights. 🌟</h3>
 
-💻 **Software Developer | Data Analyst | Full-Stack Enthusiast**  
+<img align="right" alt="coding" width="350" src="https://tse3.mm.bing.net/th/id/OIP.EKPtKh3RxhDqhVUu17JgpQHaEK?w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3">
 
-🚀 Passionate about building **scalable, clean, and efficient solutions** using **Python, JavaScript, React, and Node.js**.  
-I enjoy solving real-world problems through data-driven development and modern software design.  
+- 🔭 I’m currently working on projects in *Data Engineering* and *Full-Stack Web Development*
 
----
+- 🌱 I’m currently learning *AWS, Machine Learning, and Advanced React.js*
 
-### 🔥 What I Do
-- 🧠 Developing **data analysis projects** and **full-stack web applications**
-- 🧩 Skilled in **Python, React, Node.js, JavaScript**, and **SQL**
-- ⚙️ Currently exploring **Machine Learning**, **APIs**, and **Cloud Integration**
-- 💬 Ask me about **Python**, **React**, **Data Visualization**, or **ETL pipelines**
+- 💬 Ask me about *Python, React, Node.js, SQL, and Data Analysis*
 
----
-
-### 🧠 Learning Goals
-- Building expertise in **Data Engineering** and **MLOps**
-- Strengthening knowledge of **Big Data tools** like **Spark** and **Airflow**
-- Learning **Docker** and **AWS Cloud Deployment**
+- 📫 How to reach me *rajuyamala@gmail.com*
 
 ---
 
-### 🧰 Languages & Tools
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/raju-yamala" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju-yamala" height="30" width="40" />
+</a>
+<a href="https://github.com/Raj5432" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="Raj5432" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![Raju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj5432&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj5432&layout=compact&theme=tokyonight)
-
----
-
-### 🔗 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/raju-yamala"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-<a href="mailto:rajuyamala@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/></a>
-<a href="https://github.com/Raj5432"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+</a>
 </p>
 
 ---
 
-✨ *“Code. Analyze. Build. Repeat.”*
+<h3 align="left">GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj5432&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Raj5432" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj5432&show_icons=true&locale=en&theme=tokyonight" alt="Raj5432" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj5432&theme=tokyonight" alt="Raj5432" /></p>
