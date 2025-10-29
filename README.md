@@ -32,57 +32,11 @@ Explore my repositories to see my work in <b>Full Stack Development, Data Analys
 
 <h3 align="left">🎓 Certifications:</h3>
 
-<p align="left">
-
-<a href="https://www.coursera.org/account/accomplishments" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/5eebf8c1-27b9-4a55-bb37-b3d97ad6b6c8/image.png" alt="Google Data Analysis with Python" width="100" height="100"/>
-</a>  
-<br>
-<strong>Google Data Analysis with Python</strong> — *Google / Coursera*  
-<br>
-✅ Skills: Data Wrangling, Pandas, NumPy, Matplotlib, Data Visualization  
-
----
-
-<a href="#" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Certification" width="100" height="100"/>
-</a>  
-<br>
-<strong>Certified Python Developer Associate (PDAC-24)</strong>  
-<br>
-✅ Skills: Advanced Python, Object-Oriented Programming, APIs, Flask  
-
----
-
-<a href="https://www.hackerrank.com/rajuya5566" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank SQL Intermediate" width="100" height="100"/>
-</a>  
-<br>
-<strong>SQL Intermediate</strong> — *HackerRank*  
-<br>
-✅ Skills: Query Optimization, Joins, Subqueries, Aggregations  
-
----
-
-<a href="https://www.hackerrank.com/rajuya5566" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Python Basic" width="100" height="100"/>
-</a>  
-<br>
-<strong>Python Basic</strong> — *HackerRank*  
-<br>
-✅ Skills: Loops, Functions, Data Structures, Problem Solving  
-
----
-
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Gen AI" width="100" height="100"/>
-</a>  
-<br>
-<strong>Gen AI Certificate</strong> — *Google Cloud*  
-<br>
-✅ Skills: Generative AI, Cloud Fundamentals, Vertex AI, Responsible AI  
-
-</p>
+- Google Data Analysis with Python – Google / Coursera  
+- Certified Python Developer Associate (PDAC-24)  
+- SQL Intermediate – HackerRank  
+- Python Basic – HackerRank  
+- Gen AI Certificate – Google Cloud  
 
 ---
 
@@ -113,4 +67,19 @@ Explore my repositories to see my work in <b>Full Stack Development, Data Analys
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicon
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a>
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj5432&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Raj5432" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raj5432&show_icons=true&locale=en&theme=tokyonight" alt="Raj5432" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj5432&theme=tokyonight" alt="Raj5432" /></p>
