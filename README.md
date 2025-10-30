@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkqpsc0jw76iaxr1vumb.png)](https://github.com/Raj5432)
+[![MasterHead](https://media2.dev.to/dynamic/image/width=900,height=300,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkqpsc0jw76iaxr1vumb.png)](https://github.com/Raj5432)
 
 <h1 align="center">Hello people 👋, I'm Raju Yamala</h1>
 <h3 align="center">
@@ -7,7 +7,7 @@ I love solving real-world problems using Python, React.js, and Node.js — bridg
 Explore my repositories to see my work in <b>Full Stack Development, Data Analysis, and Automation.</b>
 </h3>
 
-<img align="right" alt="coding" width="350" src="https://tse3.mm.bing.net/th/id/OIP.EKPtKh3RxhDqhVUu17JgpQHaEK?w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3">(https://github.com/Raj5432)
+<img align="right" alt="coding" width="350" src="https://tse3.mm.bing.net/th/id/OIP.EKPtKh3RxhDqhVUu17JgpQHaEK?w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3">
 
 - 🔭 I’m currently working on **Data Engineering Projects and Full-Stack Applications**  
 - 🌱 I’m learning **AWS, Machine Learning, and Advanced React.js**  
